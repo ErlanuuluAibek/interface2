@@ -7,6 +7,6 @@ public class Cookie implements Baked{
 
     @Override
     public void cookingTime() {
-        System.out.println("Cookie is cook 20-25");
+        System.out.println("Cookie is cooking 20-25min");
     }
 }
